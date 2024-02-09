@@ -1,0 +1,52 @@
+body {
+    color: rgb(255, 255, 255);
+    background-color:rgb(182, 40, 71);
+}
+#tituloEPICO {
+    position: relative;
+    text-align: center;
+    font-size: 330%;
+}
+.fotito {
+ border: solid 12px magenta;
+ border-radius: 50px;
+ width: 20%;
+ height: 20%;
+ position: relative;
+ left: 5%;
+}
+.botonepico {
+    width: 20%;
+    color: rgb(221, 108, 93);
+    background-color: rgb(112, 14, 14);
+    font-style: italic;
+    position: relative;
+    
+}
+#botonepico {
+    bottom: 20%;
+    right: -6%
+}
+#botonepico2 {
+    bottom: 20%;
+    right: -7.5%
+}
+#botonepico3{
+    bottom: 20%;
+    right: -9.5%
+}
+#botonepico4{
+    bottom: 20%;
+    right: -11%
+}
+#REDESEPICO{
+    position: relative;
+    color: rgb(255, 0, 102);
+    font-size: 220%;
+}
+#gif{
+    background-color: rgb(248, 53, 101);
+}
+#saludo{
+    background-color: blueviolet;
+}
